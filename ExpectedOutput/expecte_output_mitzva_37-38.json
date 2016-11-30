@@ -1,0 +1,26 @@
+{
+  "subjects": [
+    {
+      "uri": "jbr:seferhamitzvot-1-37",
+      "tags": [
+        {
+          "span": "45-46",
+          "uri": "tanach-3-21-3"
+        },
+        {
+          "span": "53-54",
+          "uri": "tanach-3-21-3"
+        }
+      ]
+    },
+    {
+      "uri": "jbr:seferhamitzvot-1-38",
+      "tags": [
+        {
+          "span": "11-14",
+          "uri": "tanach-3-21-13"
+        }
+      ]
+    }
+  ]
+}

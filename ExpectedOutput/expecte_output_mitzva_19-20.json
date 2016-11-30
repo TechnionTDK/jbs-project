@@ -1,0 +1,42 @@
+{
+  "subjects": [
+    {
+      "uri": "jbr:seferhamitzvot-1-19",
+      "tags": [
+        {
+          "span": "10-15",
+          "uri": "tanach-5-8-10"
+        },
+        {
+          "span": "25-27",
+          "uri": "tanach-5-8-10"
+        }
+      ]
+    },
+    {
+      "uri": "jbr:seferhamitzvot-1-20",
+      "tags": [
+        {
+          "span": "26-28",
+          "uri": "tanach-2-25-8"
+        },
+        {
+          "span": "86-89",
+          "uri": "tanach-2-20-21"
+        },
+        {
+          "span": "185-189",
+          "uri": "tanach-2-20-22"
+        },
+        {
+          "span": "208-210",
+          "uri": "tanach-2-20-22"
+        },
+        {
+          "span": "223-225",
+          "uri": "tanach-5-27-6"
+        }
+      ]
+    }
+  ]
+}
