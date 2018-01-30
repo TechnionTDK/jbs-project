@@ -29,8 +29,6 @@ If you use the endpoint (via SPARQL) don't forget to set the name of the graph t
 ```
 PREFIX jbo: <http://jbs.technion.ac.il/ontology/>
 PREFIX jbr: <http://jbs.technion.ac.il/resource/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 SELECT * WHERE {
   ?s ?p ?o.
   ?s a jbo:Book.
