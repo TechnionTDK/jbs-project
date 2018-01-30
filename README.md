@@ -4,7 +4,7 @@ In the JBS project we build a [Linked Dataset](https://en.wikipedia.org/wiki/Lin
 - Representating the *structure* of various Jewish texts in RDF format, based on the defined ontology.
 - Conducting *text analysis* tasks, and representing the results in RDF. Current main task is detecting quotations of Bible verses (psukim) in a given text.
 
-> You comments and seggestions are welcome and should be directed to Oren Mishali (omishali at cs.technion.ac.il).
+*You comments and suggestions are welcome and should be directed to Oren Mishali (omishali at cs.technion.ac.il).*
 
 # The JBS ontology
 The current (and evolving) version of the ontology is available [in ttl format](https://github.com/TechnionTDK/jbs-json23plet/blob/master/ontologies/ttl/JbsOntology.ttl). You may also be interested to explore the JBS ontology (and the whole dataset) using a visualization tool that we have developed called [eLinda](http://tdk-p6.cs.technion.ac.il:8081/?graph=jbs.technion.ac.il&languages=&endpoint=tdk3.csf.technion.ac.il:8890/sparql).
