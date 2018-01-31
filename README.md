@@ -36,4 +36,4 @@ SELECT * WHERE {
 ```
 
 # Text analysis
-
+We are developing an [algorithm](https://github.com/TechnionTDK/spanthera) for detecting quotations of Bible verses within a given text. The algorithm, which is written in Java, is executed against all our text corpus, and the results are represented in RDF and integrated into JBS-LD.
